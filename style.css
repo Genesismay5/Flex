@@ -1,0 +1,51 @@
+body {
+	background-color: beige;
+}
+
+
+.container {
+     display: flex;
+     justify-content: center;
+} 
+
+.box {
+    height: 150px;
+    width: 150px;
+    text-align: center;
+}
+/*--------------------------------------------
+  TODAS LAS REGLAS DE BOX
+  -------------------------------------------*/
+
+.red {
+     background-color: #f59898;
+     font-family: 'Abel';
+     font-size: 22px;
+
+}
+
+.blue {
+	background-color: #98d6f5;
+	font-family: 'Aclonica';
+	font-size: 22px;
+}
+
+.green {
+    background-color: #a4f598;
+    font-family: 'Advent Pro';
+    font-size: 22px;
+}
+
+.purple {
+    background-color: #dd98f5;
+    font-family: 'Akaya Telivigala';
+    font-size: 22px;
+}
+
+/*--------------------------------------------
+                     FIN
+  -------------------------------------------*/
+
+  img {
+     width: 90%
+  }
